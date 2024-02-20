@@ -1,1 +1,2 @@
 # Crop-Recommendation-System
+The document describes a proposed agricultural crop recommendation system that uses machine learning to predict the best crops to grow based on soil composition, pH level, rainfall, location, and other relevant data. The system aims to perform the role of an agro consultant by providing crop recommendations to farmers. It uses a random forest algorithm, which showed 95% accuracy among other machine learning algorithms tested.
